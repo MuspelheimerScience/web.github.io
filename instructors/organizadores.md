@@ -1,5 +1,5 @@
 ---
-layout: instructor
+layout: instructors
 ---
 ### Coordinador General - Fundamentos de Biodiseño
 ![Alt text](/instructors/jeanpierre_tincopa.png){:height="140px" width="130px"}
