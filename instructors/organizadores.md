@@ -1,7 +1,7 @@
 ---
 layout: organizadores
 ---
-### Coordinador General - Fundamentos de Biodiseño
+### Coordinador General - LIBRE_hub
 ![Alt text](/instructors/jeanpierre_tincopa.png){:height="140px" width="130px"}
 
 *Tobias Wenzel,PhD | jean.tincopa@upch.pe*
